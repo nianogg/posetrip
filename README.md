@@ -1,6 +1,6 @@
 # posetrip
 
-posetrip is an external auto-clicker for minecraft bedrock edition written in C++ 
+posetrip is an external auto-clicker for minecraft bedrock </> C++, C#
 
 ## Key Features
 * **Advanced Timing:** Supports multiple modes including QPC busy-wait, hybrid timers, and tick-aligned synchronization for precise performance.
