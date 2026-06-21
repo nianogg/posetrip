@@ -26,3 +26,4 @@ Sound
 UI
 • RGB · accents · compact · animated tabs
 • Always on top · profiles · rebind keys
+ 
