@@ -1,6 +1,6 @@
 # posetrip
 
-Posetrip is a high-performance, intuitive auto-clicker designed for seamless operation. Built with advanced multi-threading, it ensures extremely fast and stable clicking without system performance drops.
+posetrip is an external auto-clicker for minecraft bedrock edition written in C++ 
 
 ## Key Features
 * **Advanced Timing:** Supports multiple modes including QPC busy-wait, hybrid timers, and tick-aligned synchronization for precise performance.
