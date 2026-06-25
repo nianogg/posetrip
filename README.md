@@ -20,8 +20,8 @@ External autoclicker for Bedrock (UWP/GDK) & Java 1.7.10 - 1.8.9
   </tr>
   <tr>
     <td><img width="400" src="https://github.com/user-attachments/assets/37789246-06de-4ccb-9215-ab0c07516146" /></td>
-    <td><img width="400" src="https://github.com/user-attachments/assets/8755d620-4176-485c-8d12-24685744592e" />
-" /></td>
+    <td><img width="400" src="https://github.com/user-attachments/assets/8755d620-4176-485c-8d12-24685744592e" /></td>
+
 
   </tr>
 </table>
